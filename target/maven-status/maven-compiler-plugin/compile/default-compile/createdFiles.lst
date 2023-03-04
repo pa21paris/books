@@ -1,0 +1,6 @@
+com\mycompany\books\model\Author.class
+com\mycompany\books\model\Category.class
+com\mycompany\books\dao\BookDAO.class
+com\mycompany\books\dao\BookDaoImpl.class
+com\mycompany\books\model\Book.class
+com\mycompany\books\Books.class
